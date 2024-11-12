@@ -1,0 +1,22 @@
+=>The design looks good, but need improvement in styles 👏
+=>The code quality is good 💯
+
+
+Suggestions:
+
+App.jsx:
+1.Remove unused code (line 18,22)
+2.Can use bootstrap Button instead of custom button (line 31)
+3.Form Select should be used properly (line 32,37)
+4.todo-action is suitable instead of list-action (line 52)
+5.Can create a separate component for (line 41-56)
+
+App.css:
+6.The styles are not having spaces - You can use Prettier extension.
+
+Repeated mistakes: 2, it's a good improvement 👏
+
+Score: 2000
+Good Job!, Keep rocking 👏
+
+Overall Code Rating: 3.5/5
